@@ -43,7 +43,6 @@ function App(): JSX.Element {
 
         <Text>Apple</Text>
 
-      <Text>ASDd</Text>
 
        
     </SafeAreaView>
